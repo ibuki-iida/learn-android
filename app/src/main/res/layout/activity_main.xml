@@ -23,7 +23,7 @@
         android:background="@color/colorWhite"
         android:gravity="left"
         android:inputType="textPersonName"
-        android:paddingTop="20dp" />
+        android:padding="10dp" />
 
     <TextView
         android:layout_width="wrap_content"
@@ -42,7 +42,7 @@
         android:background="@color/colorWhite"
         android:gravity="left"
         android:inputType="textMultiLine"
-        android:paddingTop="20dp" />
+        android:padding="10dp" />
 
     <LinearLayout
         android:layout_width="match_parent"
