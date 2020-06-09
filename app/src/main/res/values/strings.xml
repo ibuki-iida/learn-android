@@ -1,3 +1,12 @@
 <resources>
     <string name="app_name">learn-android</string>
+    <string name="contact_form">お問い合わせフォーム</string>
+    <string name="first_name">名</string>
+    <string name="last_name">姓</string>
+    <string name="phone_number">電話番号</string>
+    <string name="confirmation_mail">確認メールの転送有無</string>
+    <string name="contact_detail">お問い合わせ内容</string>
+    <string name="submit">送信</string>
+    <string name="mail_address">メールアドレス</string>
+    <string name="hyphen"> ー </string>
 </resources>
