@@ -8,5 +8,7 @@
     <string name="contact_detail">お問い合わせ内容</string>
     <string name="submit">送信</string>
     <string name="mail_address">メールアドレス</string>
-    <string name="hyphen"> ー </string>
+    <string name="hyphen">ー</string>
+    <string name="hope">希望する</string>
+    <string name="not_desired">希望しない</string>
 </resources>
